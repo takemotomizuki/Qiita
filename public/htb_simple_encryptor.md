@@ -1,8 +1,8 @@
 ---
-title: newArticle001
+title: Writeup Simple Encryptor
 tags:
   - ''
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
