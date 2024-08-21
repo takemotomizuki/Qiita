@@ -1,14 +1,14 @@
 ---
 title: D - K-th Nearest【Atcorder】【WriteUp】
 tags:
-  - AtCoder
-  - 競技プログラミング
   - C++
+  - AtCoder
   - 初心者
+  - 競技プログラミング
   - writeup
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-08-21T22:14:11+09:00'
+id: 5019c705535f862d4040
 organization_url_name: null
 slide: false
 ignorePublish: false
