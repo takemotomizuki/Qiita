@@ -1,12 +1,12 @@
 ---
 title: Simple Encryptor やってみた【HTB】【WriteUp】
 tags:
-  - HackTheBox
   - Security
   - 初心者
   - writeup
+  - HackTheBox
 private: true
-updated_at: '2024-08-09T01:03:02+09:00'
+updated_at: '2024-08-22T00:15:34+09:00'
 id: c0bd3640120c8aba4967
 organization_url_name: null
 slide: false
