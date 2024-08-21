@@ -7,7 +7,7 @@ tags:
   - 競技プログラミング
   - writeup
 private: false
-updated_at: '2024-08-21T22:18:01+09:00'
+updated_at: '2024-08-22T00:11:43+09:00'
 id: 5019c705535f862d4040
 organization_url_name: null
 slide: false
