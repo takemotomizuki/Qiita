@@ -5,7 +5,7 @@ tags:
   - 初心者
   - writeup
   - HackTheBoxsdd
-private: true
+private: false
 updated_at: '2024-08-22T00:15:34+09:00'
 id: c0bd3640120c8aba4967
 organization_url_name: null
