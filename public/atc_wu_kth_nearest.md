@@ -5,7 +5,6 @@ tags:
   - AtCoder
   - 初心者
   - 競技プログラミング
-  - アルゴリズム
   - writeup
 private: false
 updated_at: '2024-08-22T00:11:43+09:00'
